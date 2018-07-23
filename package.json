@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate para aplicações Node no backend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "clear; nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorffernandes/nodejs-boilerplate.git"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "oi394354 <diogo.leitao@oi.net.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorffernandes/nodejs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/victorffernandes/nodejs-boilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "glob": "^7.1.2",
+    "nodemon": "^1.18.3",
+    "restify": "^7.2.1",
+    "restify-plugins": "^1.6.0"
+  }
+}
