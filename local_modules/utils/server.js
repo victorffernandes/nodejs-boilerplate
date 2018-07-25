@@ -5,18 +5,15 @@ var middlewares = require('./middlewares');
 class Server {
     constructor() {
         if (!Server.server)
-            Server.server = restify.createServer();
+            this.server = restify.createServer();
         this.configureServer();
+        return this.server;
     }
 
     configureServer() {
         middlewares.forEach((middleware) => {
-            Server.server.use(middleware);
+            this.server.use(middleware);
         });
-    }
-
-    getServer() {
-        return Server.server;
     }
 }
 module.exports = new Server();

@@ -1,9 +1,8 @@
-var server = require('./utils/server').getServer();
-var router = require('./utils/router');
+var {server, router, config} = require('framework');
 
-server.listen(8090, function(){
+server.listen(config.port, function(){
     router.importRoutes(server);
-    console.log('Aplicação está funcionando');
+    console.log('Aplicação está funcionando na porta '+config.port);
 });
 
 server.get('/', function(req, res, next) {

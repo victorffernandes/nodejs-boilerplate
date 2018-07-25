@@ -23,7 +23,9 @@
   "homepage": "https://github.com/victorffernandes/nodejs-boilerplate#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "framework": "file:local_modules/utils",
     "glob": "^7.1.2",
+    "mocha": "^5.2.0",
     "nodemon": "^1.18.3",
     "restify": "^7.2.1",
     "restify-plugins": "^1.6.0"
