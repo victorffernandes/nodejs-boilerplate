@@ -9,3 +9,4 @@ server.get('/', function(req, res, next) {
     res.send(200, 'Nodejs BoilerPlate is working!');
     next();
 });
+module.exports = server;

@@ -1,1 +1,4 @@
 /node_modules
+/test
+/.nyc_output
+package-lock.json
