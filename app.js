@@ -2,7 +2,7 @@ var {server, router, config} = require('framework');
 
 server.listen(config.port, function(){
     router.importRoutes(server);
-    console.log('Aplicação está funcionando na porta '+config.port);
+    console.log('Aplicação está funcionando na porta '+ config.port);
 });
 
 server.get('/', function(req, res, next) {
