@@ -1,7 +1,6 @@
-var {server, router, config} = require('framework');
+var {server, config} = require('nodejs-framework');
 
 server.listen(config.port, function(){
-    router.importRoutes(server);
     console.log('Aplicação está funcionando na porta '+ config.port);
 });
 

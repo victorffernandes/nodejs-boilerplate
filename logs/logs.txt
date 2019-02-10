@@ -1,0 +1,23 @@
+{"timestamp":1549761997595,"message":"MongoDB connected!"}
+{"timestamp":1549761997595,"message":"MongoDB connection opened!"}
+{"timestamp":1549762416037,"message":"MongoDB connected!"}
+{"timestamp":1549762416037,"message":"MongoDB connection opened!"}
+{"timestamp":1549762430317,"message":"MongoDB connected!"}
+{"timestamp":1549762430317,"message":"MongoDB connection opened!"}
+{"timestamp":1549762487084,"message":"MongoDB connected!"}
+{"timestamp":1549762487085,"message":"MongoDB connection opened!"}
+{"timestamp":1549762567473,"message":"MongoDB connected!"}
+{"timestamp":1549762567474,"message":"MongoDB connection opened!"}
+{"timestamp":1549762702075,"message":"MongoDB connected!"}
+{"timestamp":1549762702076,"message":"MongoDB connection opened!"}
+{"timestamp":1549762717821,"message":"MongoDB connected!"}
+{"timestamp":1549762717822,"message":"MongoDB connection opened!"}
+{"timestamp":1549762743148,"message":"MongoDB connected!"}
+{"timestamp":1549762743148,"message":"MongoDB connection opened!"}
+{"timestamp":1549762743150,"message":"Imported route specified in /home/victor/Projetos/nodejs-boilerplate/api/modules/Example/route.js"}
+{"timestamp":1549762747702,"message":"MongoDB connected!"}
+{"timestamp":1549762747702,"message":"MongoDB connection opened!"}
+{"timestamp":1549762747704,"message":"Imported route specified in /home/victor/Projetos/nodejs-boilerplate/api/modules/Example/route.js"}
+{"timestamp":1549762790427,"message":"MongoDB connected!"}
+{"timestamp":1549762790428,"message":"MongoDB connection opened!"}
+{"timestamp":1549762790429,"message":"Imported route specified in /home/victor/Projetos/nodejs-boilerplate/api/modules/Example/route.js"}
